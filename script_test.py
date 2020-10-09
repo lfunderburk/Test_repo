@@ -29,7 +29,6 @@ fig = px.scatter(america_data,
            title='Life expectancy vs GDP Per Capita (2007, America)',
                 labels=label_dictionary)
                 
-                
-fig.show()
 
-fig.write_image("scatter_plot.png")
+
+fig.html("scatter_plot.png")
