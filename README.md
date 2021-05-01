@@ -5,6 +5,9 @@ Repository with python code
 - Kate :D (2021-04-08)
 - Daniella L (2021-04-08)
 - Laura GF (2021-04-08)
+- Nickname (2021-05-1)
+- Pax Williams (2021-05-01)
+- Belinda L (2021-05-01)
 - Daria (2021-05-01)
 
 Adding a test change...
