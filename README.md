@@ -8,5 +8,6 @@ Repository with python code
 - Nickname (2021-05-1)
 - Pax Williams (2021-05-01)
 - Belinda L (2021-05-01)
+- Daria (2021-05-01)
 
 Adding a test change...
