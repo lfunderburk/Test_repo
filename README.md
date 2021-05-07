@@ -14,6 +14,7 @@ Repository with python code
 - Calla (2021_05-01)
 - Guava D (2021-05-01)
 - Dan Yin   (2021-05-01)
+- Sima (2021-05-07)
 
 Adding a test change...
 
